@@ -1,7 +1,9 @@
-h1 {font-family: rough-love,sans-serif;
-    font-weight: 400;
+h1 {font-family: lieberuth,sans-serif;
+    font-weight: 300;
     font-style: normal;}
   
 body {background-color: #f7f5f1;  
-    color: #f783b1;}
-
+    color: #f783b1;
+    margin: 0;
+    text-align: center;
+    display: block;}
